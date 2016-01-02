@@ -23,7 +23,8 @@ export var badAttributes = {
   'href': true,
   'src': true,
   'background': true,
-  'action': true
+  'action': true,
+  'formaction': true
 };
 
 var badAttributesForDataURI = {
